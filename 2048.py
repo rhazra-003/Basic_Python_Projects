@@ -29,7 +29,7 @@ class Board:
         '512': '#776e65',
         '1024': '#f9f6f2',
         '2048': '#f9f6f2',
-    }
+    } 
 
     def __init__(self):
         self.window=Tk()
